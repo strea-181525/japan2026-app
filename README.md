@@ -1,2 +1,3 @@
-# japan2026-app
-Japan2026-app
+# Reisapp
+
+Gebouwde webapp. De inhoud is versleuteld en opent alleen met de toegangscode.
